@@ -11,10 +11,10 @@
       Pink: hsl(356, 66%, 75%)
       Teal: hsl(174, 63%, 62%)
   */
-  --color: hsl(150, 77%, 40%);
-  --hue: 150;
-  --sat: 77%;
-  --lig: 40%;
+  --color: hsl(271, 76%, 53%);
+  --hue: 271;
+  --sat: 76%;
+  --lig: 53%;
   --first-color: hsl(var(--hue), var(--sat), var(--lig));
   --first-color-alt: hsl(var(--hue), var(--sat), 57%); /* -4% */
   --title-color: hsl(var(--hue), 12%, 15%);
